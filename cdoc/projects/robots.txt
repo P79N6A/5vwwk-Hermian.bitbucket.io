@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://JIMMIEESPINO17.JIMMIEESPINO17/sitemap.xml.gz
+Sitemap: https://5vwwk-Hermian.bitbucket.io/sitemap.xml.gz
