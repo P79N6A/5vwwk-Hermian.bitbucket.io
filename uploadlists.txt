@@ -1,0 +1,2 @@
+[ https://github.com/jimmieespino17/5vwwkHermian.pythonanywhere.com/blob/master/sitemap.xml.gz?raw=true ] : [ DONE ] 
+git clone https://jimmieespino17:girisubo12#@github.com/jimmieespino17/5vwwkHermian.pythonanywhere.com.git /home/5vwwkHermian/www
